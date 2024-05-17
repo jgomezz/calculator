@@ -1,1 +1,1 @@
-<img src="calculator.png"/>
+<img src="calculator.png" width="100"/>
